@@ -1,3 +1,6 @@
+# Foliotek Note 
+### Once > 0.10.0 comes out, we can switch to point project at that instead of our git repo
+
 # Backbone Relational
 [![Build Status](https://travis-ci.org/PaulUithol/Backbone-relational.svg?branch=master)](https://travis-ci.org/PaulUithol/Backbone-relational)
 
